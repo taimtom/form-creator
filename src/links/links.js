@@ -1,5 +1,5 @@
 export const LINKS={
-    FORM_LIST:"/dashboard/forms",
+    FORM_LIST:"/",
     FORM_CREATE:"/dashboard/forms/create-form",
     FORM_DETAIL:"/dashboard/forms/:id/detail",
     FORM_EDIT:"/dashboard/forms/:id/edit",
